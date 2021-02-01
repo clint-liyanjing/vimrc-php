@@ -116,7 +116,7 @@ let g:DoxygenToolkit_versionTag = "@version\t"
 let g:DoxygenToolkit_versionString = "1.0.0"
 let g:DoxygenToolkit_blockTag = "@name\t"
 let g:DoxygenToolkit_classTag = "@class\t"
-let g:DoxygenToolkit_authorName = "liyanjing<liyanjing@didiglobal.com>"
+let g:DoxygenToolkit_authorName = "liyanjing"
 let g:doxygen_enhanced_color = 1
 nmap ,hh :DoxAuthor<CR><ESC>k8==j$a
 nmap ,ff :Dox<CR><ESC>k8==j$a<TAB>
